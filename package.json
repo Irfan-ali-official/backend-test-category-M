@@ -1,0 +1,12 @@
+{
+  "name": "backend-test-category-m",
+  "version": "1.0.0",
+  "description": "Instructions: Please complete the following tasks to the best of your ability. You may use any online resources or documentation that you find necessary. Feel free to ask any clarifying questions if needed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
