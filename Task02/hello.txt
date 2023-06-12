@@ -1,0 +1,2 @@
+This is just a sample file, for reading purpose.
+A quick brown fox jumps over the lazy dog.
